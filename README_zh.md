@@ -183,7 +183,6 @@ pip install -r requirements.txt
 cd train
 pip install -e .
 pip install -r requirements.txt
-cd ..
 ```
 
 请尽量按照训练框架要求保持安装顺序一致。
