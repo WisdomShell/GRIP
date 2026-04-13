@@ -6,7 +6,7 @@
   <strong>English</strong> | <a href="./README_zh.md">简体中文</a>
 </p>
 
-<a href="https://arxiv.org/abs/2604.07892"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white" /></a>
+<a href="https://arxiv.org/abs/2604.9999"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white" /></a>
 [![Project](https://img.shields.io/badge/Project-Homepage-2ea44f?logo=githubpages&logoColor=white)](https://wisdomshell.github.io/GRIP/)
 [![Task](https://img.shields.io/badge/Task-Agentic%20RAG-purple.svg)](#overview)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/WisdomShell/grip)
