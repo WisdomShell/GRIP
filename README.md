@@ -467,7 +467,7 @@ The evaluation script supports:
 - F1
 - ROUGE
 
-It also handles answer fields with either:
+It also handles answer fields with either: 
 - `answer`
 - `answer_and_def_correct_predictions`
 
