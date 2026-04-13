@@ -8,7 +8,7 @@
 
 <a href="https://arxiv.org/abs/2604.07892"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white" /></a>
 [![Project](https://img.shields.io/badge/Project-Homepage-2ea44f?logo=githubpages&logoColor=white)](https://wisdomshell.github.io/GRIP/)
-[![Task](https://img.shields.io/badge/Task-Dynamic%20RAG-purple.svg)](#overview)
+[![Task](https://img.shields.io/badge/Task-Agentic%20RAG-purple.svg)](#overview)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/WisdomShell/grip)
 <a href="https://2026.aclweb.org/"><img src="https://img.shields.io/badge/Venue-ACL%202026-blue" /></a>
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](#installation)
