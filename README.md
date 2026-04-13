@@ -184,7 +184,6 @@ pip install -r requirements.txt
 cd train
 pip install -e .
 pip install -r requirements.txt
-cd ..
 ```
 
 Please keep the installation order consistent with the training framework requirements.
