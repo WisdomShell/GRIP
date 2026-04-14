@@ -26,6 +26,8 @@ Instead of treating retrieval as an external controller decision, GRIP internali
 
 ---
 
+> Related projects from us: [**GRIP** (ACL 2026 Main)](https://github.com/WisdomShell/GRIP) · [**ETC** (AAAI 2026 Oral)](https://github.com/WisdomShell/ETC) · [**SCD** (AAAI 2026 Oral)](https://github.com/WisdomShell/SCD)
+
 ## 🌟 Overview
 
 GRIP is built around a simple idea: retrieval control should be part of generation itself.
