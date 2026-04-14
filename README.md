@@ -260,7 +260,7 @@ tar zxvf elasticsearch-7.17.9.tar.gz
 rm elasticsearch-7.17.9.tar.gz
 cd elasticsearch-7.17.9
 nohup bin/elasticsearch &
-cd ../..
+cd ../.. 
 python data_generation/index.py --data_path /path/to/psgs_w100.tsv --index_name wiki
 ```
 
