@@ -25,6 +25,8 @@
 与把检索看作外部控制器决策的做法不同，GRIP 通过显式控制 token 将检索行为内化到 token-level decoding 中，例如 `[RETRIEVE]`、`[INTERMEDIARY]`、`[ANSWER]` 和 `[SOLVED]`。这样模型就可以在同一个自回归轨迹中决定 **何时检索**、**如何生成后续查询**、以及 **何时停止**。
 
 ---
+> Related RAG projects from us: [**GRIP** (ACL 2026 Main)](https://github.com/WisdomShell/GRIP) · [**ETC** (AAAI 2026 Oral)](https://github.com/WisdomShell/ETC) · [**SCD** (AAAI 2026 Oral)](https://github.com/WisdomShell/SCD)
+
 
 ## 🌟 概述
 
@@ -47,7 +49,6 @@ GRIP 的核心思想很简单：检索控制本身应当成为生成过程的一
 - 基于 BM25 的 Wikipedia 索引构建。
 
 ---
-> Related RAG projects from us: [**GRIP** (ACL 2026 Main)](https://github.com/WisdomShell/GRIP) · [**ETC** (AAAI 2026 Oral)](https://github.com/WisdomShell/ETC) · [**SCD** (AAAI 2026 Oral)](https://github.com/WisdomShell/SCD)
 
 ## ✨ 亮点
 
