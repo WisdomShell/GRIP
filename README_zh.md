@@ -47,6 +47,7 @@ GRIP 的核心思想很简单：检索控制本身应当成为生成过程的一
 - 基于 BM25 的 Wikipedia 索引构建。
 
 ---
+> Related RAG projects from us: [**GRIP** (ACL 2026 Main)](https://github.com/WisdomShell/GRIP) · [**ETC** (AAAI 2026 Oral)](https://github.com/WisdomShell/ETC) · [**SCD** (AAAI 2026 Oral)](https://github.com/WisdomShell/SCD)
 
 ## ✨ 亮点
 
