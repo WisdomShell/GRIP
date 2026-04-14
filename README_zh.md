@@ -590,7 +590,15 @@ GRIP 将结构化监督组织为四种训练类型：
 ## 📖 引用
 
 ```bibtex
-
+@misc{li2026retrievalgenerationunifiedframework,
+      title={Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning}, 
+      author={Bo Li and Mingda Wang and Gexiang Fang and Shikun Zhang and Wei Ye},
+      year={2026},
+      eprint={2604.11407},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.11407}, 
+}
 ```
 
 
